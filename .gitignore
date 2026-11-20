@@ -1,0 +1,9 @@
+backend/.env
+backend/venv/
+backend/notes_db/
+__pycache__/
+
+# Environment files
+.env
+.env.*
+!.env.example
